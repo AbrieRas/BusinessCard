@@ -1,1 +1,13 @@
-/* Coming soon */
+.summary-container {
+    margin: auto 15%;
+    text-align: left;
+}
+
+.summary-container h2 {
+    margin-bottom: 1%;
+}
+
+.summary-container p {
+    margin-top: 1%;
+    line-height: 150%;
+}

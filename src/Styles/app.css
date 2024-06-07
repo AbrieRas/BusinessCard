@@ -21,7 +21,8 @@ h1,
 h2,
 h3,
 a,
-button {
+button,
+p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
