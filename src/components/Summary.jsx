@@ -1,4 +1,4 @@
-import './../Styles/summary.css';
+import "./../styles/summary.css";
 
 const Summary = () => {
     return (

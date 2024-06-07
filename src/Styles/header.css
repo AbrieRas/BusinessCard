@@ -1,1 +1,66 @@
-/* Coming soon */
+.abraham-picture {
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.header-container h1 {
+    font-weight: bold;
+}
+
+.header-container a {
+    display: block;
+    margin-bottom: 2.5%;
+}
+
+/* unvisited link */
+.header-container a:link {
+    color: #ffffff;
+}
+
+/* visited link */
+.header-container a:visited {
+    color: #ffffff;
+}
+
+/* mouse over link */
+.header-container a:hover {
+    color: #5093e2;
+}
+
+/* selected link */
+.header-container a:active {
+    color: #5093e2;
+}
+
+.contact-buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-buttons button {
+    padding: 2%;
+    margin: 2%;
+    border-radius: 10px;
+    width: 26%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+.contact-buttons button:first-child {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.contact-buttons button:last-child {
+    background-color: #5093e2;
+    border-color: #5093e2;
+    color: #ffffff;
+}
+
+.contact-buttons button img {
+    padding-right: 10%;
+    width: 12%;
+}

@@ -1,7 +1,7 @@
-import Header from './Header';
-import Summary from './Summary';
-import Footer from './Footer';
-import './../Styles/app.css';
+import Header from "./Header";
+import Summary from "./Summary";
+import Footer from "./Footer";
+import "./../styles/app.css";
 
 const App = () => {
     return (
@@ -11,6 +11,6 @@ const App = () => {
             <Footer />
         </div>
     );
-}
+};
 
 export default App;
